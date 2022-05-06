@@ -29,7 +29,6 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 
 **Tools**
 
@@ -41,15 +40,16 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-**Languages**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGorbunov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 **Learning**
 
-![Java](https://img.shields.io/badge/-Java?style=flat-square&logo=Java)
-![С++](https://img.shields.io/badge/-%D0%A1Sharp-1d72b1?style=flat-square&logo=cpp)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Java](https://img.shields.io/badge/-%D0%Java?style=flat-square&logo=Java)
+![С++](https://img.shields.io/badge/-C&plus;&plus;-%1d72b1?style=flat-square&logo=cpp)
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+![IvanGorbunov github stats](https://github-readme-stats.vercel.app/api?username=IvanGorbunov&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![IvanGorbunov Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGorbunov&layout=compact&count_private=true&theme=gruvbox)
 
 
 ![](https://komarev.com/ghpvc/?username=IvanGorbunov)

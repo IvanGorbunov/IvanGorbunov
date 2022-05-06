@@ -19,7 +19,7 @@
 
 **Databases**
 
-![MicrosoftSQLServer](https://img.shields.io/badge/-MS%20SQL-%232c3e50?style=flat-square&logo=microsoft%20sql%20server)
+![MicrosoftSQLServer](https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
 
@@ -33,7 +33,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
 
-![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -42,8 +41,9 @@
 **Learning**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)
-![С++](https://img.shields.io/badge/-C&plus;&plus;-%1d72b1?style=flat&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![С++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B)
+![С++](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 

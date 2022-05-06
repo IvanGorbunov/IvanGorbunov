@@ -19,11 +19,6 @@
 
 **Databases**
 
-<!-- ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) -->
-
 ![MicrosoftSQLServer](https://img.shields.io/badge/-MS%20SQL-%232c3e50?style=flat-square&logo=microsoft%20sql%20server)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
@@ -53,8 +48,8 @@
 
 **Learning**
 
-![Go](https://img.shields.io/badge/-Go-grey?style=flat-square&logo=go)
-![С#](https://img.shields.io/badge/-%D0%A1Sharp-1d72b1?style=flat-square&logo=csharp)
+![Java](https://img.shields.io/badge/-Java?style=flat-square&logo=Java)
+![С++](https://img.shields.io/badge/-%D0%A1Sharp-1d72b1?style=flat-square&logo=cpp)
 
 
 ![](https://komarev.com/ghpvc/?username=IvanGorbunov)

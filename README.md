@@ -24,7 +24,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) -->
 
-![MicrosoftSQLServer](https://img.shields.io/badge/-MS%20SQL-%232c3e50?style=flat-square&logo=MSSQL)
+![MicrosoftSQLServer](https://img.shields.io/badge/-MS%20SQL-%CC2927?style=flat-square&logo=MSSQL)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
 

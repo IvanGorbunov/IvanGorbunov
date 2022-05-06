@@ -42,7 +42,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)
-![С++](https://img.shields.io/badge/-C&plus;&plus;-%1d72b1?style=flat-square&logo=cpp)
+![С++](https://img.shields.io/badge/-C&plus;&plus;-%1d72b1?style=flat&logo=c%2B%2B)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 

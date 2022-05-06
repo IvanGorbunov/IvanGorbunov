@@ -43,7 +43,7 @@
 **Learning**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Java](https://img.shields.io/badge/-Java?style=flat-square&logo=Java)
+![Java](https://img.shields.io/badge/-Java?style=flat-square&logo=java)
 ![С++](https://img.shields.io/badge/-C&plus;&plus;-%1d72b1?style=flat-square&logo=cpp)
 
 ## 𝗦𝘁𝗮𝘁𝘀

@@ -23,8 +23,6 @@
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
 
-
-
 **Front-end**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -43,7 +41,7 @@
 **Learning**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Java](https://img.shields.io/badge/-Java?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)
 ![С++](https://img.shields.io/badge/-C&plus;&plus;-%1d72b1?style=flat-square&logo=cpp)
 
 ## 𝗦𝘁𝗮𝘁𝘀

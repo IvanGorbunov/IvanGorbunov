@@ -36,6 +36,14 @@
 ![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
 ![SQL](https://img.shields.io/badge/-SQL-%46a2f1?style=flat-square&logo=sql)
 
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,flask,SqlAlchemy,Celery,Redis,sql&perline=14" />
+  </a>
+</p>
+
+
 **Databases**
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)

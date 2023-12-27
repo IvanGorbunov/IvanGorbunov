@@ -66,12 +66,6 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![IvanGorbunov github stats](https://github-readme-stats.vercel.app/api?username=IvanGorbunov&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![IvanGorbunov Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGorbunov&layout=compact&count_private=true&theme=gruvbox)
-
-
-
-
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->

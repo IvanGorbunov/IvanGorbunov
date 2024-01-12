@@ -90,7 +90,7 @@
 </p>        
 <!--- stats (end) -->
 
----
+<p align="center">
 
 <div id="badges" align="center">
   <a href="https://t.me/gorbunov_i_e"  align="center">
@@ -98,6 +98,6 @@
   </a>
 </div>
 
----
+</p>
 
 ![](https://komarev.com/ghpvc/?username=IvanGorbunov)

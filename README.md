@@ -90,8 +90,6 @@
 </p>        
 <!--- stats (end) -->
 
----
-
 ## Contacts
 
 <p align="center">
@@ -106,7 +104,5 @@
 </td>
 </tr>
 </p>
-
----
 
 ![](https://komarev.com/ghpvc/?username=IvanGorbunov)

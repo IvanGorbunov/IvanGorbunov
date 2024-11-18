@@ -6,10 +6,15 @@
 <h1 align="center"> Hi there 👋 I'm a Backend developer</h1>
 
 <!--- snake -->
-<div align="center">
+<!--- <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
-</div>
+</div> -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 </br>
 

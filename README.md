@@ -1,4 +1,6 @@
 <img align ="right" src="https://komarev.com/ghpvc/?username=IvanGorbunov&label=Profile%20views&color=0e75b6&style=flat" alt="IvanGorbunov">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

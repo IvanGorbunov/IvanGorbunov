@@ -82,9 +82,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python            13 mins         ████████████████████████▒   97.78 %
-Gettext Catalog   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-JavaScript        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Python            35 mins         ██████████████████▒░░░░░░   73.78 %
+YAML              12 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.60 %
+Gettext Catalog   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+JavaScript        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->

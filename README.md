@@ -82,8 +82,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python           9 mins          █████████████████████░░░░   84.06 %
-GitIgnore file   1 min           ████░░░░░░░░░░░░░░░░░░░░░   15.94 %
+Python           1 hr 1 min      ████████████████████▒░░░░   81.57 %
+Bash             11 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.97 %
+GitIgnore file   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
 ```
 
 <!--END_SECTION:waka-->

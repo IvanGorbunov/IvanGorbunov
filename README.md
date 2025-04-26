@@ -82,9 +82,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python           1 hr 1 min      ████████████████████▒░░░░   81.57 %
-Bash             11 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.97 %
-GitIgnore file   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+Python             1 hr 13 mins    █████████████████████░░░░   84.03 %
+Bash               12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.79 %
+GitIgnore file     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Shell Script       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->

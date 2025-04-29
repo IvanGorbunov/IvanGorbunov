@@ -82,11 +82,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             1 hr 13 mins    █████████████████████░░░░   84.03 %
-Bash               12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.79 %
-GitIgnore file     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Python             1 hr 22 mins    █████████████████████░░░░   84.45 %
+Bash               12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 %
+GitIgnore file     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+Locale             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 Shell Script       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->

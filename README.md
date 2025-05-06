@@ -82,11 +82,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             13 mins         ███████████████████▒░░░░░   77.64 %
-HTML               2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
-Locale             1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
-Gettext Catalog    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-Requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python             4 mins          ███████████████▒░░░░░░░░░   61.98 %
+HTML               2 mins          ████████░░░░░░░░░░░░░░░░░   31.45 %
+Locale             0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+Gettext Catalog    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+Requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->

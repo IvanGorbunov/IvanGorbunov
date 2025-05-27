@@ -82,9 +82,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             2 hrs 49 mins   ████████████████████████▓   99.30 %
-Bash               1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-Requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python   2 hrs 5 mins    ████████████████████████▓   99.05 %
+Bash     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
 
 <!--END_SECTION:waka-->

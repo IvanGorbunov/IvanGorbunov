@@ -82,9 +82,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python      0 secs          █████████████████████████   99.76 %
-.env file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-Bash        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

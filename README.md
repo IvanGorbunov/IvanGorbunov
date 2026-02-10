@@ -82,11 +82,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python           6 hrs 55 mins   ██████████████▒░░░░░░░░░░   57.35 %
-Markdown         2 hrs 5 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.29 %
-JSON             1 hr 41 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.01 %
-GitIgnore file   29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
-JavaScript       24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+Python           9 hrs 17 mins   █████████████████▒░░░░░░░   68.76 %
+Markdown         1 hr 42 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
+JSON             38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+GitIgnore file   34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+JavaScript       24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
 ```
 
 <!--END_SECTION:waka-->
